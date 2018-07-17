@@ -10,3 +10,6 @@ git checkout devzhu
 或者 git checkout master
 git branch 查看有哪些分支
 git merge devzhu 当前分支与这份分支和 ving
+功能五来了，开始功能。。。。
+功能五已经写了一部分了， 000 我来坐个标注
+今天很有状态，功能五已经完成了
