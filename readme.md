@@ -6,3 +6,5 @@ git branch devzhu
 第二步 多个分支之间相互切换
 git checkout devzhu
 或者 git checkout master
+git branch 查看有哪些分支
+git merge devzhu 当前分支与这份分支和 ving
