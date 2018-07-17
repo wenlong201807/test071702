@@ -22,3 +22,11 @@ git merge devzhu 当前分支与这份分支和 ving
     git remote add origin git@github.com:wenlong201807/test071702.git master
 - git push origin -u master
   > git push
+
+## gulp 的 5 个核心方法
+
+- gulp.task('任务名',function(){})//创建任务
+- gulp.src('./\*.css')// 指定想要处理的文件
+- gulp.dest()// 指定最终处理后的文件的存放路径
+- gulp.watch()// 自动的监视文件的变化，然后执行相应任务
+- gulp.run('任务名')// 直接执行相应的任务
