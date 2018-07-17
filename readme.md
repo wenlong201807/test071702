@@ -18,3 +18,5 @@ git merge devzhu 当前分支与这份分支和 ving
 
 - 令人神魂调到的神操作
   ssh-keygen -t rsa -C '1573511441@qq.com'
+  - 变量声明
+    git remote add origin git@github.com:wenlong201807/test071702.git master
