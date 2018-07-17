@@ -16,5 +16,5 @@ git merge devzhu 当前分支与这份分支和 ving
 
 ## ssh 方式上传代码
 
-- 公钥与私钥两种方式
+- 令人神魂调到的神操作
   ssh-keygen -t rsa -C '1573511441@qq.com'
